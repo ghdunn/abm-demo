@@ -1,2 +1,1 @@
-# abm-demo
-A repository for a simple agent-based model demonstration
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
